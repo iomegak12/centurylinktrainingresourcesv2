@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "keyVaultName": {
+      "value": "iomegakv"
+    },
+    "objectId": {
+      "value": "abe5ec9a-7c68-4055-a558-6d831348ef79"
+    },
+    "secretName": { "value": "sqlcredentials" }
+  }
+}

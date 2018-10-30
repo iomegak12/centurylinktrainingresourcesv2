@@ -1,0 +1,1 @@
+C:\AzureSQL Databases\Demonstrations\ProvisioningAzureResourcesSolution\ProvisioningKVResources\obj\Debug\ProvisioningKVResources.deployproj.CoreCompileInputs.cache
